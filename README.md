@@ -1,6 +1,6 @@
 # whoami
 
-- 🤖 I’m interested in ...
+- 🤖 I’m interested in hacking and coding
 - 💡 I’m currently learning about pentesting / redteam / web development;
 - 🥷 CTF Player
 
